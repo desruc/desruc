@@ -7,12 +7,12 @@
 <details>
   <summary><b>📈 &nbsp;GitHub Statistics</b></summary>
   <br/>
-  <p align="center">
-      <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=desruc&hide_border=true&theme=nightowl" />
+  <p align="center" style="margin: 0px;">
+      <img height="111px" src="https://github-readme-stats.vercel.app/api?username=desruc&hide_title=true&hide_border=true&count_private&hide=issues,contribs&theme=nightowl" />
+      <img height="111px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desruc&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
   </p>
-  <p align="center">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=desruc&hide_title=true&hide_border=true&count_private&hide=issues,contribs&theme=nightowl" />
-      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desruc&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+  <p align="center" style="margin: 0px;">
+      <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=desruc&hide_border=true&theme=nightowl" />
   </p>
 </details>
 
