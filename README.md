@@ -5,12 +5,8 @@
 <p>
 <samp>Hello! My name is James Cameron and I'm a software engineer from Brisbane, Australia.</samp>
 </p>
-<ul>
-  <li>
-      <samp>I'm currently working at [Octopus Deploy](https://octopus.com)</samp>
-  </li>
-</ul>
-</p>
+
+<samp>I'm currently working at [Octopus Deploy](https://octopus.com).</samp>
 
 <!--
 **desruc/desruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
