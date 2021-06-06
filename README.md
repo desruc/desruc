@@ -1,20 +1,16 @@
-# G'day! <img src="./wave.gif" width="30px">
+![mrdesruc](https://user-images.githubusercontent.com/36631337/120921601-d4927a80-c707-11eb-87f9-15e0282bdc72.png)
 
-<samp>My name is James Cameron and I'm a software engineer from Brisbane, Australia.</samp>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=desruc&count_private&show_icons=true&theme=dark" />
 
-<hr />
-
-<details>
-  <summary><b>📈 &nbsp;GitHub Statistics</b></summary>
-  <br/>
-  <p align="center" style="margin: 0px;">
-      <img height="111px" src="https://github-readme-stats.vercel.app/api?username=desruc&hide_title=true&hide_border=true&count_private&hide=issues,contribs&theme=nightowl" />
-      <img height="111px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desruc&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-  </p>
-  <p align="center" style="margin: 0px;">
-      <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=desruc&hide_border=true&theme=nightowl" />
-  </p>
-</details>
+<p>
+<samp>Hello! My name is James Cameron and I'm a software engineer from Brisbane, Australia.</samp>
+</p>
+<ul>
+  <li>
+      <samp>I'm currently working at [Octopus Deploy](https://octopus.com)</samp>
+  </li>
+</ul>
+</p>
 
 <!--
 **desruc/desruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
