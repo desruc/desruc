@@ -1,4 +1,4 @@
-![Desruc](https://user-images.githubusercontent.com/36631337/122301286-d64c1180-cf43-11eb-895c-cc40c127a2af.png)
+![desruc](https://user-images.githubusercontent.com/36631337/122347442-5f3b6b00-cf8d-11eb-8c13-fac77d43518e.png)
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=desruc&count_private=true&show_icons=true&theme=dark" />
 
