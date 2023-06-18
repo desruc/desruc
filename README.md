@@ -1,7 +1,5 @@
 ![desruc](https://user-images.githubusercontent.com/36631337/122347442-5f3b6b00-cf8d-11eb-8c13-fac77d43518e.png)
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=desruc&count_private=true&show_icons=true&theme=dark" />
-
 <p>
 <samp>Hello! My name is James Cameron and I'm a software engineer from Brisbane, Australia.</samp>
 </p>
